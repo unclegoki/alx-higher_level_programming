@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 def magic_calculation(a, b):
-   len(98 + (a ** b))
+   return len(98 + (a ** b))
